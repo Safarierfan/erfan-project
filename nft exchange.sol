@@ -113,4 +113,4 @@ contract Exchange is ColorMinter, ERC721Holder {
         
 }       
 
-##if it dosent work tell me becouse i copy paste it and maybe it have problem from copy past 
+ 
